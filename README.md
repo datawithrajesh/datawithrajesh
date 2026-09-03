@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Github_Cover_page.jpg" width="100%" />
+</p>
 # Hi 👋 I'm Rajesh Kumar Patra
 
 🎓 B.Tech Computer Science Student (2027)
