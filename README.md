@@ -47,3 +47,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight&hide_border=true)
 
+## 📊 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datawithrajesh&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datawithrajesh&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datawithrajesh&theme=tokyonight" width="48%"/>
+</p>
