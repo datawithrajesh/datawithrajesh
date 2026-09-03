@@ -57,3 +57,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datawithrajesh&theme=tokyonight" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datawithrajesh&theme=tokyonight" width="48%"/>
 </p>
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datawithrajesh/datawithrajesh/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
