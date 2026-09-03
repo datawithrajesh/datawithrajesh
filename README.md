@@ -12,7 +12,6 @@
   B.Tech CSE Student (2027) • Data Science • Python • SQL • Machine Learning
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -22,7 +21,6 @@
 - 🌱 Currently learning DSA, React and ML.
 - 🎯 Looking for internships and software developer roles.
 
----
 
 ## 💻 Tech Stack
 
@@ -42,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=datawithrajesh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
----
 
 ## 👀 Profile Visitors
 
@@ -50,13 +47,11 @@
   <img src="https://komarev.com/ghpvc/?username=datawithrajesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rajeshkumarpatra/
 - 📧 Gmail: rajesh.career21@gmail.com
 
----
 
 ## 🚀 Featured Projects
 
@@ -65,16 +60,12 @@
 - 📊 Customer Churn Prediction
 - 📈 Sales and Call Analysis
 
----
-
 ## 📚 Currently Learning
 
 - Machine Learning
 - Data Structures & Algorithms
 - React JS
 - SQL Optimization
-
----
 
 ⭐ Thanks for visiting my profile!
 
