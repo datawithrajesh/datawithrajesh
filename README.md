@@ -41,11 +41,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=datawithrajesh&theme=algolia&no-frame=true&row=2&column=3)
----
-
 ## 📊 GitHub Stats
 
 ![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithrajesh&show_icons=true&theme=tokyonight&hide_border=true)
@@ -53,3 +48,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datawithrajesh&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=datawithrajesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
