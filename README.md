@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Github_banner.jpg" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Rajesh Kumar Patra</h1>
 
 <p align="center">
