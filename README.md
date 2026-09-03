@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Rajesh Kumar Patra
 
-<!--
-**datawithrajesh/datawithrajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student (2027)
 
-Here are some ideas to get you started:
+💻 Data Science | Python | SQL | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Odisha, India
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Python, SQL and Machine Learning.
+- 📊 Building Data Science projects.
+- 🎯 Looking for internships and software jobs.
+
+---
+
+## 💻 Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Git & GitHub
+- HTML & CSS
