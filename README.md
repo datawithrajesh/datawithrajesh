@@ -49,6 +49,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datawithrajesh&layout=compact&theme=tokyonight&hide_border=true)
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=datawithrajesh&theme=tokyo-night&hide_border=true" width="100%"/>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
