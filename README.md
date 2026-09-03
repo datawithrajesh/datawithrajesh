@@ -38,11 +38,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithrajesh&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datawithrajesh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ## 🌐 Connect With Me
 
