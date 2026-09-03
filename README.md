@@ -38,8 +38,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/rajeshkumarpatra/).
-- 📧 Gmail: rajesh.career21@gmail.com.
+- 💼 LinkedIn: https://www.linkedin.com/in/rajeshkumarpatra/
+- 📧 Gmail: rajesh.career21@gmail.com
 
 ---
 
