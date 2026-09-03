@@ -6,6 +6,10 @@
   <img src="Github_Cover_page.jpg" width="100%" />
 </p>
 
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=datawithrajesh&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
 # Hi 👋 I'm Rajesh Kumar Patra
 
 🎓 B.Tech Computer Science Student (2027)
