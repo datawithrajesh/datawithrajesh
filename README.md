@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajesh+Kumar+Patra;Data+Science+Developer;Python+%7C+SQL+%7C+Machine+Learning;B.Tech+CSE+Student+(2027)" />
+</p>
+
+<p align="center">
   <img src="Github_banner.jpg" width="100%" />
 </p>
 
