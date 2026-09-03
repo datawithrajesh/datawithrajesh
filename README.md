@@ -41,6 +41,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=datawithrajesh&theme=algolia&no-frame=true&row=2&column=3)
+---
+
 ## 📊 GitHub Stats
 
 ![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithrajesh&show_icons=true&theme=tokyonight&hide_border=true)
