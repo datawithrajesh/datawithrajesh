@@ -70,3 +70,9 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datawithrajesh/datawithrajesh/output/github-contribution-grid-snake.svg" />
+</p>
