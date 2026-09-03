@@ -47,7 +47,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=datawithrajesh&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datawithrajesh&layout=compact&theme=tokyonight&hide_border=true)
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datawithrajesh&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📈 Contribution Graph
 
